@@ -13,73 +13,73 @@ This project is a simple rule-based chatbot developed using Python as part of th
 The chatbot interacts with users by responding to predefined questions and greetings.
 
 
-Features
+*Features*
 
 
 
 
-Interactive conversation
+■Interactive conversation
 
 
-Greeting responses
+■Greeting responses
 
 
-Basic question handling
+■Basic question handling
 
 
-Exit command support
-
-
-
-
-Technologies Used
+■Exit command support
 
 
 
 
-Python 3
-
-
-Loops
-
-
-Conditional Statements
-
-
-User Input Handling
+*Technologies Used*
 
 
 
 
-Learning Outcomes
+■Python 3
 
 
-Through this project, I learned:
+■Loops
 
 
+■Conditional Statements
 
 
-Chatbot fundamentals
-
-
-Decision-making using if-else statements
-
-
-User interaction design
-
-
-Program flow control
+■User Input Handling
 
 
 
 
-Author
+*Learning Outcomes*
+
+
+■Through this project, I learned:
+
+
+
+
+■Chatbot fundamentals
+
+
+■Decision-making using if-else statements
+
+
+■User interaction design
+
+
+■Program flow control
+
+
+
+
+*Author*
 
 
 Sabari Nathan
 
 
-Internship
+*Internship*
 
 
 CodeAlpha Python Programming Internship
